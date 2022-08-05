@@ -35,7 +35,10 @@ Install the following dependencies an dmocdules from the libraries above
 
 Creation of a Jupyter notebook to assemble investment portfolios based on cryptocurrencies.
 
-
+<img src="https://github.com/Virginia440/Module10_challenge/blob/main/Images/Image1.PNG" width=500 height=300>
+<img src="https://github.com/Virginia440/Module10_challenge/blob/main/Images/Image2.PNG" width=500 height=300>
+<img src="https://github.com/Virginia440/Module10_challenge/blob/main/Images/Image3.PNG" width=500 height=300>
+<img src="https://github.com/Virginia440/Module10_challenge/blob/main/Images/Image4.PNG" width=500 height=300>
 
 
 ---
